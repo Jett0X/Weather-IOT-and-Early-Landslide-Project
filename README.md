@@ -87,6 +87,17 @@ We welcome contributions! Please feel free to open an issue or submit a pull req
 
 ---
 
-## 📄 License
+## ✍️ Author & Contact
 
-This project is licensed under the MIT License - see the `https://github.com/Jett0X/Weather-IOT-and-Early-Landslide-Project/blob/main/LICENSE` file for details.
+| Type | Name / Account | Link |
+| :--- | :--- | :--- |
+| **Author** | [JETTX](https://github.com/Jett0X) | GitHub Profile |
+| **Contact** | Jett Louise (Facebook) | [@JetLouise](https://web.facebook.com/profile.php?id=61581058409289) |
+| **Contact** | Email | [rizzigale6@gmail.com](mailto:rizzigale6@gmail.com) |
+
+---
+
+## 📄 Licence
+
+This project is licensed under the **MIT Licence**.
+* **Licence Link:** [MIT Licence](https://github.com/Jett0X/Weather-IOT-and-Early-Landslide-Project/blob/main/LICENSE)
