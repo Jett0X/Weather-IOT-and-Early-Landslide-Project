@@ -45,6 +45,8 @@ You must install these libraries via the Arduino Library Manager:
 2.  `Adafruit_Sensor` (Adafruit Unified Sensor Driver - a dependency)
 3.  `Adafruit_BMP280` (For communicating with the BMP280 sensor)
 4.  `LiquidCrystal_I2C` (If using an I2C LCD display)
+5.  `Adafruit_Sensor.h` (Using for undefined sensor)
+5.  `SPI.h` (Using for communication in microcontroller programming)
 
 ### Setup & Code
 1.  Clone this repository:
